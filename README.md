@@ -11,7 +11,7 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="profile1.jpg" width="80px">
+  <img align="right" src="profile1.jpg" width="180px">
 </picture>
 
 
