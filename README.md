@@ -11,7 +11,7 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="profile1.jpg" width="180px">
+  <img align="right" src="https://photos.fife.usercontent.google.com/pw/AP1GczOlWsM5R1svZNfinAQwdsDATkJxvSrmbM5GQK4a7SXx_lMsAqmPUUjr=w688-h917-s-no-gm?authuser=0" width="80px">
 </picture>
 
 
