@@ -8,10 +8,10 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## **About Me**
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://avatars.githubusercontent.com/u/78108240?v=4" width="250px">
 </picture>
 
 - Developer focused mainly on **Python, React and Node.js**
