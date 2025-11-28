@@ -94,13 +94,7 @@
 
 
 
-<li>
-<a href="mailto:svillegasosores@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:-ZPKTRUM-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</li>
 
-</ul>
 
 </div>
 
