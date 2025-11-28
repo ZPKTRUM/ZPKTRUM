@@ -78,7 +78,7 @@
 
 ---
 
-## <b> Let's Connect!</b> <img src="https://cdn.pixabay.com/animation/2024/12/24/11/07/11-07-18-774_512.gif" width="80">
+## <b> Let's Connect!</b> <img src="https://giffiles.alphacoders.com/209/209663.gif" width="80">
 <br>
 
 <div align='left'>
