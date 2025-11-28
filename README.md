@@ -11,7 +11,7 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="20250524_190007291.jpg">
+  <img align="right" src="https://avatars.githubusercontent.com/u/78108240?v=4">
 </picture>
 
 - Developer focused mainly on **Python, React and Node.js**
