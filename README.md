@@ -78,7 +78,7 @@
 
 ---
 
-## <b> Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> Let's Connect!</b> <img src="https://cdn.pixabay.com/animation/2024/12/24/11/07/11-07-18-774_512.gif" width="80">
 <br>
 
 <div align='left'>
@@ -87,7 +87,7 @@
 
 <li>
 <a href="https://linkedin.com/in/sergio-villegas-151430212" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:-ZPKTRUM-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin:-Sergio Villegas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
