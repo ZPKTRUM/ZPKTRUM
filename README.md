@@ -11,7 +11,7 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="profile|">
+  <img align="right" src="profile1.jpg">
 </picture>
 
 - Developer focused mainly on **Python, React and Node.js**
