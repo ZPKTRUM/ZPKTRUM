@@ -11,8 +11,9 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="profile1.jpg">
+  <img align="right" src="profile1.jpg" width="180px">
 </picture>
+
 
 - Developer focused mainly on **Python, React and Node.js**
 - Interested in **Machine Learning** and **AI Projects**.
