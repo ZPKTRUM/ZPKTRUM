@@ -79,7 +79,7 @@
 ---
 
 ## <b> Let's Connect!</b> 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNyMGtnbXJiYTZ6MXY2NHo5YWEwOGN2b3YxbWIzMWE2NGFqdjk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ibf0oGMt6qqAqfbw2a/giphy.gif" width="50" style="top:2px;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNyMGtnbXJiYTZ6MXY2NHo5YWEwOGN2b3YxbWIzMWE2NGFqdjk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ibf0oGMt6qqAqfbw2a/giphy.gif" width="50">
 <br>
 
 
